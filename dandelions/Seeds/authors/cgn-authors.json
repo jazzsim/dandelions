@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 23,
+    "bookId": 21,
+    "name": "Mackesy Charlie"
+  },
+  {
+    "Id": 24,
+    "bookId": 22,
+    "name": "Esquivel Eric M."
+  },
+  {
+    "Id": 25,
+    "bookId": 22,
+    "name": "Salas Ramon"
+  },
+  {
+    "Id": 26,
+    "bookId": 22,
+    "name": "Davis Darren G."
+  },
+  {
+    "Id": 27,
+    "bookId": 23,
+    "name": "Allo Deborah"
+  },
+  {
+    "Id": 28,
+    "bookId": 23,
+    "name": "Conner Dan"
+  },
+  {
+    "Id": 29,
+    "bookId": 23,
+    "name": "Scalia Roberto"
+  },
+  {
+    "Id": 30,
+    "bookId": 24,
+    "name": "Oda Eiichiro"
+  },
+  {
+    "Id": 31,
+    "bookId": 25,
+    "name": "Fujimoto Tatsuki"
+  },
+  {
+    "Id": 32,
+    "bookId": 26,
+    "name": "Oda Eiichiro"
+  },
+  {
+    "Id": 33,
+    "bookId": 27,
+    "name": "Endo Tatsuya"
+  },
+  {
+    "Id": 34,
+    "bookId": 28,
+    "name": "Akutami Gege"
+  },
+  {
+    "Id": 35,
+    "bookId": 29,
+    "name": "Fujimoto Tatsuki"
+  },
+  {
+    "Id": 36,
+    "bookId": 30,
+    "name": "Bendis Brian Michael"
+  },
+  {
+    "Id": 37,
+    "bookId": 30,
+    "name": "Pichelli Sara"
+  },
+  {
+    "Id": 38,
+    "bookId": 30,
+    "name": "Pichelli Sara"
+  },
+  {
+    "Id": 39,
+    "bookId": 31,
+    "name": "Gotouge Koyoharu"
+  },
+  {
+    "Id": 40,
+    "bookId": 32,
+    "name": "Ito Junji"
+  },
+  {
+    "Id": 41,
+    "bookId": 33,
+    "name": "Ito Junji"
+  },
+  {
+    "Id": 42,
+    "bookId": 34,
+    "name": "Kobabe Maia"
+  },
+  {
+    "Id": 43,
+    "bookId": 35,
+    "name": "Watterson Bill"
+  },
+  {
+    "Id": 44,
+    "bookId": 35,
+    "name": "Bill Watterson and John Kascht"
+  },
+  {
+    "Id": 45,
+    "bookId": 36,
+    "name": "Akutami Gege"
+  },
+  {
+    "Id": 46,
+    "bookId": 37,
+    "name": "Vaughan Brian K."
+  },
+  {
+    "Id": 47,
+    "bookId": 37,
+    "name": "Staples Fiona"
+  },
+  {
+    "Id": 48,
+    "bookId": 38,
+    "name": "Akasaka Aka"
+  },
+  {
+    "Id": 49,
+    "bookId": 38,
+    "name": "Yokoyari Mengo"
+  },
+  {
+    "Id": 50,
+    "bookId": 38,
+    "name": "Engel Taylor"
+  },
+  {
+    "Id": 51,
+    "bookId": 39,
+    "name": "Akutami Gege"
+  },
+  {
+    "Id": 52,
+    "bookId": 40,
+    "name": "Gotouge Koyoharu"
+  }
+]
